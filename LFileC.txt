@@ -1,1 +1,4 @@
 This is file C.
+Addind extra line into fileC.
+Adding extra line to check merge conflict.
+This is a squash merge.
