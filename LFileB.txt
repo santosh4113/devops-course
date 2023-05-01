@@ -1,3 +1,4 @@
 This is file B.
 Making another change to file B.
 This is a  another squash merge.
+This is  third change in file B for squash merge.
