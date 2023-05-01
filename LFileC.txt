@@ -1,2 +1,1 @@
 This is file C.
-Addind extra line into fileC.
