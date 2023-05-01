@@ -6,3 +6,7 @@ Addind extra line into fileC.
 Adding extra line to check merge conflict.
 This is a squash merge.
 This is a another squash merge.
+
+Addind extra line into fileC.
+Adding extra line to check merge conflict.
+This is a squash merge.
