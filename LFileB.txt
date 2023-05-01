@@ -1,5 +1,2 @@
 This is file B.
 Making another change to file B.
-This is a  another squash merge.
-Adding extra content to check merge conflict.
-This is for sqash mergre.
